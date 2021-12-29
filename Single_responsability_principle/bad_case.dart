@@ -7,12 +7,10 @@ class PaymentProcess {
     return 'CreateReport';
   }
 
-  void PrintRepost() {
+  void PrintReport() {
     //for print report details
-    print('Repostdetails');
+    print('Reportdetails');
   }
 
-  void SavePayment() {
-    //save payment on DB
-  }
+  void SavePayment() {}
 }
