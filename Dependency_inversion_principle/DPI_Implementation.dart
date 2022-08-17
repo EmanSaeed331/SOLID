@@ -11,6 +11,7 @@ class Gmail implements IMessage {
   send() {}
 }
 
+
 class Hotmail implements IMessage {
   @override
   send() {}
